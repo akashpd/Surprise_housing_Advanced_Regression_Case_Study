@@ -36,13 +36,11 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 
 ## Conclusions
 - Score for both Ridge and Lasso regression.
-
-Ridge : Train :88.11 Test :88.20
-Lasso : Train :87.64 Test :88.75
-Optimal value of lamda for both Ridge and Lasso regression.
-
-Optimal Value of lamda for ridge : 10
-Optimal Value of lamda for Lasso : 0.002
+	- Ridge : Train :88.11 Test :88.20
+	- Lasso : Train :87.64 Test :88.75
+- Optimal value of lamda for both Ridge and Lasso regression.
+	- Optimal Value of lamda for ridge : 10
+	- Optimal Value of lamda for Lasso : 0.002
 
 Top 5 most important varables/predictors are:
 - AgeOfProperty
